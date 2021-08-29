@@ -1,5 +1,5 @@
 # APLIKASI KALKULATORKU
-	kalukulatorku adalah aplikasi untuk menghitung dari perhitungan sederhana seperti (penjumlahan,pengurangan,perkalian dan pembagian)
+kalukulatorku adalah aplikasi untuk menghitung dari perhitungan sederhana seperti (penjumlahan,pengurangan,perkalian dan pembagian)
 
 ## Jenis Aplikasi
 aplikasi berbasis web
