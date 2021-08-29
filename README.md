@@ -6,12 +6,13 @@ aplikasi berbasis web
 
 ## Persyaratan
 aplikasi ini berjalan di PHP versi PHP 7.4 --
-	- PHP
-	- Apache
-	- Xampp
-	- Wampp
-	- Laragon
-	- Texeditor : notepad++,sublime text,Visual Studio Code
+1.PHP
+2. Apache
+3. Xampp
+4. Wampp
+5. Laragon
+6. Texeditor : notepad++,sublime text,Visual Studio Code
+7. Webroser
 
 ## Cara Instalasi
 1. Download Aplikasi Kalkulatorku pada salah satu link berikut:
