@@ -2,10 +2,9 @@
 kalukulatorku adalah aplikasi untuk menghitung dari perhitungan sederhana seperti (penjumlahan,pengurangan,perkalian dan pembagian)
 
 ## Jenis Aplikasi
-aplikasi berbasis web
+aplikasi berbasis web,aplikasi ini sudah berjalan di PHP versi PHP terbaru
 
 ## Persyaratan
-aplikasi ini berjalan di PHP versi PHP 7.4
 1.PHP
 2. Apache
 3. Xampp
