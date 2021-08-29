@@ -7,7 +7,7 @@ aplikasi berbasis web,aplikasi ini sudah berjalan di PHP versi PHP terbaru
 ## Persyaratan
 1. PHP
 2. Apache
-7. Webroser
+7. Webrowser
 
 ## Cara Instalasi
 1. Download Aplikasi Kalkulatorku pada salah satu link berikut:
