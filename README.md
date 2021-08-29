@@ -8,7 +8,7 @@ aplikasi berbasis web,aplikasi ini sudah berjalan di PHP versi PHP terbaru
 1. PHP
 2. Apache
 3. Xampp
-4. Wampp
+4. Wamp
 5. Laragon
 6. Texeditor : notepad++,sublime text,Visual Studio Code
 7. Webroser
