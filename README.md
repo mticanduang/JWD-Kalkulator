@@ -7,7 +7,6 @@ aplikasi berbasis web,aplikasi ini sudah berjalan di PHP versi PHP terbaru
 ## Persyaratan
 1. PHP
 2. Apache
-6. Texeditor : notepad++,sublime text,Visual Studio Code
 7. Webroser
 
 ## Cara Instalasi
