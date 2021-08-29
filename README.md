@@ -5,7 +5,7 @@ kalukulatorku adalah aplikasi untuk menghitung dari perhitungan sederhana sepert
 aplikasi berbasis web
 
 ## Persyaratan
-aplikasi ini berjalan di PHP versi PHP 7.4 --
+aplikasi ini berjalan di PHP versi PHP 7.4
 1.PHP
 2. Apache
 3. Xampp
